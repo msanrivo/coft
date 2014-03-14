@@ -1,4 +1,4 @@
 coft
 ====
 
-Orbital Flight Mechanics Simulator
+UC3m Orbital Flight Simulator
